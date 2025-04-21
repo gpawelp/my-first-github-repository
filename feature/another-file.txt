@@ -6,3 +6,6 @@ ANOTHER changes in another file.txt
 
 New changes - once again.
 
+Something changed: :)
+
+
